@@ -1,2 +1,0 @@
-svn diff -r100:HEAD --summarize .
-
