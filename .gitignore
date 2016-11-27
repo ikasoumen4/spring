@@ -1,4 +1,6 @@
 target/
+
+#not ignore
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
